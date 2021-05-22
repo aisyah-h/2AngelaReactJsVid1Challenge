@@ -8,7 +8,7 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>A Few of My Favourite Things</h1>
+    <h1>These Are A Few Of My Favourite Things</h1>
     {/*Note: this line shows how to comment in React JSX.*/}
     {/*unordered list*/}
     <h3>In no order:</h3>
